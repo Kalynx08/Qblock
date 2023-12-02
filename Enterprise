@@ -1,0 +1,95 @@
+Empowering Enterprises and Creatives with Blockchain-Powered Solutions: A Whitepaper for Qblock
+Executive Summary
+The world is witnessing an unprecedented transformation driven by technological advancements and evolving customer demands. Blockchain technology, with its decentralized, secure, and transparent nature, has emerged as a transformative force, poised to revolutionize various industries, including finance, supply chain, and the creative realm. Qblock is a visionary firm dedicated to harnessing the power of blockchain to provide innovative financial services that empower businesses and individuals in these sectors.
+Introduction
+The traditional financial system faces challenges such as high transaction costs, limited transparency, and centralized control. Supply chains grapple with inefficiencies, lack of traceability, and data silos. The creative industry struggles with piracy, copyright infringement, and unfair compensation models. Blockchain technology offers solutions to these challenges, enabling a more efficient, transparent, and equitable ecosystem.
+Proposed Blockchain Protocol
+Qblock will leverage a hybrid blockchain architecture, combining the strengths of private and public blockchains to create a secure, scalable, and permissioned network. This approach will provide the necessary privacy and control for sensitive financial transactions while leveraging the transparency and immutability of public blockchains.
+Enterprise:
+ERP 
+Enterprise resource planning (ERP) pieces of software have become the backbone of many enterprises, the first ERP system was built in the 1960s, they started as a way to expand the coordination of different manufacturing undertakings under one enterprise and later evolved to include more back-end professionals as well. They are implemented into companies in order to help them to keep track of all their resources and assets such as land, properties, cash, inventory, raw materials, accounts receivables, investments, equipment and the way that these assets interact with the different stakeholders such as clients, partners, distributors and suppliers. For the purposes of this paper we will only introduce the ERP systems, however Qblocks ambition is to be able to integrate with all Industry Cloud platforms (ICPs) to help manage all the different assets within an organization, these include but are not limited to Customer Relationship Management (CRM), Product Information Management (PIM) and Digital Asset Management (DAS) systems. Qblock aims at introducing please see figure 1
+
+
+Figure 1
+
+As the introduction of blockchain has raise popularity, companies such as SAP and Oracle have started to develop their own private blockchain systems (SAP blockchain). SAP recently launched a Digital currency hub system to enable cross-border payments through the use of stable coins USDC and EUROC. USDC is available on 9 different blockchains including Solana, and TRON, while EUROC is only available on Ethereum and Avalanche. 
+
+From the research it is still unclear as to which platform the Qblock blockchain should be built as it needs to incorporate above all impeccable processing speed as to no hinder daily operations and disruptions to the data processing done through the corporate systems. As will be shown later in the Cargill use case, the R3 Corda DLT platform poses promising results since it was built over an open source development project together with 200 other entities composed of banks, financial institutions and technology companies.  on a consortium where  and must be well aligned to develop quantum-resistant blockchain due to the importance of maintaining high security in all information processed. Since advancements in quantum computing have shown promising results, in breaking the algorithms, this poses a threat to the use of blockchain for enterprise use. 
+
+From a commercial standpoint, there are various use cases that can be presented to showcase the validity of developing Qblock and development of a blockchain platform to tokenize the assets that are currently being managed through the use of ERP systems. 
+
+Financial Services
+Cargill and SAP
+During May 2018 Cargill executed a trade together with two of their bank entities HSBC and ING using R3’s Corda blockchain platform to issue a letter of credit (LOC) for the exchange of bulk shipment of soybeans. The benefits of blockchain in this instance are clear, as usually  exchanges for paper-based documentation related to letters of credit usually take between 5–10 days. This exchange was done in 24 hours.
+As this transaction was being processed and the respective shipments were completed this was updated accordingly to their SAP systems through a series of manual and automated tasks produced by the employees in the financial and operational departments. This knowledge was retrieved from Gerard Salvador Franco as during 2014 he was an employee in the financial department and has kept in close contact with some employees in different offices of the company. 
+As an ambition to bring the benefits of blockchain technology to the industry, Qblock on the 23rd of October partnered with a farmer in Aburi to develop a blockchain project to tokenize 50 acres of land (Approximately 38 football fields). Aburi is located in the eastern region of Ghana and is known for its fertile soil, an ideal climate for agriculture. The current estimated value of the land is USD 350,000.00. 
+Following the architecture please see figure 2
+
+
+
+Banker’s Acceptance
+Manual or Qblock
+1. Underlying promise of goods
+ Manual
+2. Seller send invoice to buyer
+ Qblock
+3. Time Draft drawn on a bank
+ Qblock
+4. Bank ‘’Signs and accepts’’ Draft
+ Qblock
+5. Goods are shipped to warehouse
+ Manual
+6. Documents signed and returned to seller
+ Qblock
+7. Documents are Forwarded to Bank
+ Qblock
+8. Accepting bank pays seller
+ Qblock
+9. Documents forwarded to buyer
+ Qblock
+10. Present documents to warehouse
+ Qblock
+11. Goods released to buyer
+ Manual
+
+The benefit of speed to execute a trade through letter of credit with blockchain technology was seen before. However, these benefits can be further seen through the use of a Banker’s acceptance note. Similarly to a LOC, executing a trade with a banker’s acceptance is a safe form of payment since one or two banks guarantee the payments are made. In a Banker’s acceptance, there are 11 steps used until the trade is executed. 
+
+These are shown on Table 1.    
+
+
+
+
+	
+As with a letter of credit the improvements in trade execution was 1000% with an average time to execute a LOC of 240 hours compared to 24 hours with blockchain, a similar performance improvement can be expected using blockchain for the case described above.
+Implementation of Qblock into the SAP system
+Qblock proposes the implementation of foundational models and blockchain to automate the trade execution of different types of contracts between companies that use the software system. This should serve as a draft idea to the implementation of language learning models and blockchain technologies to significantly improve productivity at enterprise level. If we consider the statistics published by Gartner, and consider that more than 70% of  companies will be using ICP’s by 2027. On the other hand, in 2020 it was estimated that there were about 351,520 firms currently in the world with more than 250 employees. Thus, considering the productivity gains made by R3 Corda blockchain technology without the integration of artificial intelligence into the ICP’s the impact a technology of this type could have on the industry must be considered and further investigated to derive an accurate picture of its potential in the market.
+SAP can be integrate with a LOC in the following way, to illustrate we are using SAP public proprietary data.
+Automated LOC Creation and Issuance
+AI can automate the creation and issuance of LOCs by extracting and analysing relevant data from various sources, including customer contracts, purchase orders, and shipping documents. In SAP this process is executed over 7 steps, where the user manually introduces the LOC contract, terminates it once it is presented to the receiving bank and is posted. On table 2 the same illustration of automating is shown: 
+
+
+SAP Letter of Credit
+Manual or Qblock
+Figure
+1. LOC Contract
+ Qblock
+Figure 3 and 4
+2. LOC Contract settlement
+ Qblock
+Figure 4
+3. LOC Presentation
+ Qblock
+Figure 4
+4. Accept and Settlement presentation
+ Qblock
+Figure 3 and 5
+5. Financing based on presentation
+ Qblock
+Figure 4
+6. Terminate LOC
+ Qblock
+Figure 3
+7. Posting
+ Qblock
+Figure 3
+
